@@ -9,4 +9,4 @@ turns out its pretty fast but the bot is not good.
 
 the game in streamlit does not use drag and drop, and requires UCI notation for moving pieces. like for pawn a2 to a3 you write a2a3 and so fourth.
 
-# things to do, train a better bot, check if move-legal (unresolved issues) remove UCI movements. - adi singh
+things to do, train a better bot, check if move-legal (unresolved issues) remove UCI movements. - adi singh

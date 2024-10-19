@@ -106,3 +106,4 @@ if st.session_state.board.is_game_over():
     st.write("Game over!")
     result = st.session_state.board.result()
     st.write(f"Result: {result}")
+a

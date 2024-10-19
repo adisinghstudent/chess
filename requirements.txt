@@ -1,0 +1,6 @@
+streamlit
+python-chess
+numpy
+pandas
+
+#newest packages as of october 19, 2024 i suppose.

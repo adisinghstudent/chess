@@ -7,6 +7,9 @@ turns out its pretty fast but the bot is not good. some game logic still needs t
 2. pip install -r requirements.txt
 3. streamlit run main.py
 
+# or check it out on!:
+https://chessbot.streamlit.app
+
 the game in streamlit does not use drag and drop, and requires UCI notation for moving pieces. like for pawn a2 to a3 you write a2a3 and so fourth.
 
 things to do, train a better bot, check if move-legal (unresolved issues) remove UCI movements. - adi singh

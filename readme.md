@@ -1,6 +1,6 @@
 # tried to see how fast building a chessbot is.
 
-turns out its pretty fast but the bot is not good.
+turns out its pretty fast but the bot is not good. some game logic still needs to be implemented
 
 # please try it by:
 1. git clone https://github.com/adisinghstudent/chess

@@ -7,7 +7,6 @@ import random
 
 # Initialize chess board
 st.title("chess against my Machine Learning chessbot")
-st.color_scheme("light")
 
 # Initialize the chess board and session state
 if 'board' not in st.session_state:
